@@ -1,0 +1,34 @@
+<resources>
+<string name="app_name">StoryApp</string>
+<string name="title_activity_welcome">Welcome</string>
+<string name="title_welcome_page">Selamat Datang pada Aplikasi Story DICODING !</string>
+<string name="message_welcome_page">Silahkan ekspresikan pengalaman belajar di DICODING...</string>
+<string name="login">LOGIN</string>
+<string name="signup">DAFTAR</string>
+<string name="title_signup_page">Isi dan lengkapi data diri dibawah ini\n</string>
+<string name="name">Nama</string>
+<string name="email">Email</string>
+<string name="password">Password</string>
+<string name="Hname">Masukan Nama...</string>
+<string name="Hemail">Masukkan Email...</string>
+<string name="Hpw">Masukkan Password...</string>
+<string name="title_login_page">Tidak sabar untuk berbagi cerita?</string>
+<string name="message_login_page">Silahkan login dahulu !</string>
+<string name="home">Halaman Utama</string>
+<string name="namaUser">Nama User\n</string>
+<string name="description">Deskripsi\n</string>
+<string name="addStory">Tambah Story</string>
+<string name="upload">UPLOAD</string>
+<string name="galeri">GALERI</string>
+<string name="camera">CAMERA</string>
+<string name="logout">Logout</string>
+<string name="preview">Preview Gambar</string>
+<string name="show_password">Show Password</string>
+<string name="title_activity_maps">MapsActivity</string>
+<string name="normal_type">Normal</string>
+<string name="satellite_type">Satellite</string>
+<string name="terrain_type">Terrain</string>
+<string name="hybrid_type">Hybrid</string>
+<string name="kosong">Tidak diketahui..</string>
+<string name="splash_img">Gambar Welcome</string>
+</resources>
